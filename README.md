@@ -1,5 +1,5 @@
-# ExcelFilterFromPDF-App
 The application filters the first row of an excel table, with all ID's found into the attached PDF document, with format (5).(1-3).(1-3), the number in the brackets represents the number of digits.
+
 Eg, of valid ID's - 12345.123.123; 00123.12.12; 00001.1.1
 
 ## How to work with the program
